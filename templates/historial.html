@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Finales Felices - Historial</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+<div class="container">
+    
+    <h1>💖 Historial de Adopciones</h1>
+
+    {% if adopciones|length == 0 %}
+        <p style="text-align:center;">No hay adopciones aún 😢</p>
+    {% else %}
+
+    <div class="tabla-container">
+        <table class="tabla">
+            <thead>
+                <tr>
+                    <th>Adoptante</th>
+                    <th>Apellido</th>
+                    <th>Perrito</th>
+                    <th>Raza</th>
+                    <th>Fecha</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                {% for registro in adopciones %}
+                <tr>
+                    <td>{{ registro[0] }}</td>
+                    <td>{{ registro[1] }}</td>
+                    <td>{{ registro[2] }}</td>
+                    <td>{{ registro[3] }}</td>
+                    <td>{{ registro[4] }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+
+    {% endif %}
+
+    <div class="volver-container">
+        <a href="/" class="btn">Volver al catálogo</a>
+    </div>
+
+</div>
+
+</body>
+</html>
