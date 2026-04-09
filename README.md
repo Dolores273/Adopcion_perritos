@@ -87,4 +87,4 @@ Este proyecto tiene fines estrictamente **educativos**. Puedes utilizarlo como b
 <img width="1920" height="1200" alt="Captura desde 2026-04-08 01-08-04" src="https://github.com/user-attachments/assets/f6a62fc4-efb1-4afe-a5ab-8b6b132ba392" />
 <img width="1920" height="1200" alt="Captura desde 2026-04-08 00-46-05" src="https://github.com/user-attachments/assets/20ff2f8b-5879-498f-abcf-ea61075631a7" />
 <img width="1920" height="1200" alt="Captura desde 2026-04-07 22-14-30" src="https://github.com/user-attachments/assets/7119e719-68f6-4de5-9ca1-3d80c8ca6699" />
-![Uploading Captura desde 2026-04-07 22-14-47.png…]()
+<img width="1920" height="1200" alt="Captura desde 2026-04-07 22-14-47" src="https://github.com/user-attachments/assets/d7455854-596f-4f86-91ae-6745b9228f99" />
