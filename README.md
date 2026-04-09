@@ -83,7 +83,9 @@ Este proyecto tiene fines estrictamente **educativos**. Puedes utilizarlo como b
 ---
 **Nota:** Si encuentras algún error o tienes sugerencias, ¡siéntete libre de abrir un *Pull Request*! 🐕✨
 <img width="1846" height="1070" alt="Captura desde 2026-04-09 07-58-42" src="https://github.com/user-attachments/assets/ca66834b-5198-4944-b9dd-4443d6d7f09f" />
+Aqui comienza la pagina web y tiene los registros 
 <img width="1846" height="1070" alt="Captura desde 2026-04-09 07-58-56" src="https://github.com/user-attachments/assets/510155d5-58a3-4cb0-b6fe-5a56136ff02c" />
+
 <img width="1920" height="1200" alt="Captura desde 2026-04-08 01-08-04" src="https://github.com/user-attachments/assets/f6a62fc4-efb1-4afe-a5ab-8b6b132ba392" />
 <img width="1920" height="1200" alt="Captura desde 2026-04-08 00-46-05" src="https://github.com/user-attachments/assets/20ff2f8b-5879-498f-abcf-ea61075631a7" />
 <img width="1920" height="1200" alt="Captura desde 2026-04-07 22-14-30" src="https://github.com/user-attachments/assets/7119e719-68f6-4de5-9ca1-3d80c8ca6699" />
